@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Mushroom Recipes</title>
+    <style>
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            margin-top: 20px;
+        }
+        .recipe {
+            margin-bottom: 20px;
+        }
+        .ingredients {
+            margin-top: 10px;
+        }
+        .steps {
+            margin-top: 10px;
+        }
+        .ingredients ul, .steps ol {
+            margin-left: 20px;
+        }
+        .recipe h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Delicious Mushroom Recipes</h1>
+
+        <div class="recipe">
+            <h2>1. Mushroom Stroganoff</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>300g mushrooms, sliced</li>
+                    <li>1 onion, finely chopped</li>
+                    <li>2 cloves garlic, minced</li>
+                    <li>1 cup vegetable broth</li>
+                    <li>1/2 cup sour cream</li>
+                    <li>1 tbsp flour</li>
+                    <li>1 tbsp butter</li>
+                    <li>1 tsp mustard</li>
+                    <li>Salt and pepper to taste</li>
+                    <li>Fresh parsley for garnish</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat butter in a pan and sauté the onions and garlic until soft.</li>
+                    <li>Add the sliced mushrooms and cook until they release their moisture.</li>
+                    <li>Sprinkle flour over the mushrooms and stir well, cooking for 1-2 minutes.</li>
+                    <li>Add vegetable broth and mustard, stirring to combine.</li>
+                    <li>Let it simmer for 5 minutes, then stir in the sour cream.</li>
+                    <li>Season with salt and pepper to taste.</li>
+                    <li>Serve with rice or pasta, garnished with fresh parsley.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>2. Mushroom Masala</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>300g mushrooms, chopped</li>
+                    <li>1 onion, finely chopped</li>
+                    <li>2 tomatoes, pureed</li>
+                    <li>1 tsp ginger-garlic paste</li>
+                    <li>1 tsp cumin seeds</li>
+                    <li>1 tsp garam masala</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1/2 tsp turmeric powder</li>
+                    <li>1/2 cup cream</li>
+                    <li>Fresh coriander leaves for garnish</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for cooking</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat oil in a pan and add cumin seeds. Sauté until they splutter.</li>
+                    <li>Add onions and cook until golden brown.</li>
+                    <li>Add ginger-garlic paste and cook for 2 minutes.</li>
+                    <li>Stir in pureed tomatoes, turmeric, red chili powder, and salt. Cook until the oil separates.</li>
+                    <li>Add chopped mushrooms and cook until they release water and soften.</li>
+                    <li>Stir in garam masala and cook for 5 minutes.</li>
+                    <li>Add cream and cook for another 3 minutes. Garnish with coriander leaves.</li>
+                    <li>Serve hot with roti or rice.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>3. Garlic Butter Mushrooms</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>250g mushrooms, sliced</li>
+                    <li>3 tbsp butter</li>
+                    <li>4 cloves garlic, minced</li>
+                    <li>1 tsp thyme (fresh or dried)</li>
+                    <li>Salt and pepper to taste</li>
+                    <li>1 tbsp lemon juice</li>
+                    <li>Fresh parsley for garnish</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>In a pan, melt the butter and sauté garlic until fragrant.</li>
+                    <li>Add the mushrooms and cook until they release their moisture and become golden brown.</li>
+                    <li>Sprinkle thyme, salt, and pepper over the mushrooms, then cook for 2 minutes.</li>
+                    <li>Stir in lemon juice and cook for another 1-2 minutes.</li>
+                    <li>Garnish with fresh parsley and serve as a side dish or on toast.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

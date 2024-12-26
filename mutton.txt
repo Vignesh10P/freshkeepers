@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Mutton Recipes</title>
+    <style>
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            margin-top: 20px;
+        }
+        .recipe {
+            margin-bottom: 20px;
+        }
+        .ingredients {
+            margin-top: 10px;
+        }
+        .steps {
+            margin-top: 10px;
+        }
+        .ingredients ul, .steps ol {
+            margin-left: 20px;
+        }
+        .recipe h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Delicious Mutton Recipes</h1>
+
+        <div class="recipe">
+            <h2>1. Mutton Curry</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g mutton, cut into pieces</li>
+                    <li>1 large onion, finely chopped</li>
+                    <li>2 tomatoes, pureed</li>
+                    <li>2 tbsp ginger-garlic paste</li>
+                    <li>1 tsp cumin seeds</li>
+                    <li>1 tsp garam masala</li>
+                    <li>1 tsp turmeric powder</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1/2 cup yogurt</li>
+                    <li>1/4 cup chopped coriander leaves</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for cooking</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat oil in a large pan and add cumin seeds. Sauté until they splutter.</li>
+                    <li>Add chopped onions and sauté until golden brown.</li>
+                    <li>Add ginger-garlic paste and cook for another 2 minutes.</li>
+                    <li>Stir in pureed tomatoes, turmeric, red chili powder, and salt. Cook until oil separates from the masala.</li>
+                    <li>Add mutton pieces and brown them on all sides.</li>
+                    <li>Add yogurt and garam masala, then cook for 10 minutes on medium heat.</li>
+                    <li>Cover and cook for 40-45 minutes until the mutton is tender.</li>
+                    <li>Garnish with fresh coriander and serve hot with rice or naan.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>2. Mutton Korma</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g mutton, cut into pieces</li>
+                    <li>1 onion, finely sliced</li>
+                    <li>2 tbsp ginger-garlic paste</li>
+                    <li>2 tbsp yogurt</li>
+                    <li>1 tsp garam masala</li>
+                    <li>1 tsp coriander powder</li>
+                    <li>1/2 tsp turmeric powder</li>
+                    <li>1/4 cup almonds, ground</li>
+                    <li>1/4 cup cream</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for cooking</li>
+                    <li>Water as needed</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat oil in a pan and sauté sliced onions until golden brown.</li>
+                    <li>Add ginger-garlic paste and cook for 2 minutes.</li>
+                    <li>Stir in yogurt, garam masala, coriander powder, and turmeric powder. Cook for 5 minutes until the masala blends well.</li>
+                    <li>Add mutton pieces and brown them on all sides.</li>
+                    <li>Add ground almonds and a little water to make a thick gravy. Cover and cook for 40 minutes on low heat.</li>
+                    <li>Once the mutton is cooked, stir in the cream and cook for another 5 minutes.</li>
+                    <li>Serve hot with naan, rice, or paratha.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>3. Mutton Seekh Kebab</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g mutton, minced</li>
+                    <li>1 onion, finely chopped</li>
+                    <li>2 tbsp ginger-garlic paste</li>
+                    <li>1 tbsp garam masala</li>
+                    <li>1/2 tsp red chili powder</li>
+                    <li>1/2 tsp turmeric powder</li>
+                    <li>2 tbsp chopped coriander leaves</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for grilling</li>
+                    <li>Wooden skewers (if grilling)</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>In a bowl, mix minced mutton with chopped onions, ginger-garlic paste, garam masala, red chili powder, turmeric powder, coriander leaves, and salt.</li>
+                    <li>Mix thoroughly to combine the ingredients. Let it marinate for at least 30 minutes in the fridge.</li>
+                    <li>Shape the mutton mixture onto skewers, pressing gently to form kebabs.</li>
+                    <li>Preheat the grill or oven to medium-high heat. Brush the kebabs with oil.</li>
+                    <li>Grill for 10-12 minutes, turning occasionally, until the kebabs are cooked through and slightly charred.</li>
+                    <li>Serve hot with green chutney, naan, or rice.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

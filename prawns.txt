@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Prawns Recipes</title>
+    <style>
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            margin-top: 20px;
+        }
+        .recipe {
+            margin-bottom: 20px;
+        }
+        .ingredients {
+            margin-top: 10px;
+        }
+        .steps {
+            margin-top: 10px;
+        }
+        .ingredients ul, .steps ol {
+            margin-left: 20px;
+        }
+        .recipe h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Delicious Prawns Recipes</h1>
+
+        <div class="recipe">
+            <h2>1. Prawn Curry</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g prawns, peeled and deveined</li>
+                    <li>1 onion, finely chopped</li>
+                    <li>2 tomatoes, pureed</li>
+                    <li>1 tbsp ginger-garlic paste</li>
+                    <li>1 tsp cumin seeds</li>
+                    <li>1 tsp turmeric powder</li>
+                    <li>1 tsp coriander powder</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1/2 cup coconut milk</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for cooking</li>
+                    <li>Fresh coriander for garnish</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat oil in a pan and add cumin seeds. Sauté until they splutter.</li>
+                    <li>Add chopped onions and sauté until golden brown.</li>
+                    <li>Add ginger-garlic paste and cook for 2 minutes.</li>
+                    <li>Stir in pureed tomatoes, turmeric, coriander powder, and red chili powder. Cook for 5 minutes.</li>
+                    <li>Add prawns and cook for 3-5 minutes until they turn pink.</li>
+                    <li>Pour in coconut milk, add salt, and simmer for 5-7 minutes.</li>
+                    <li>Garnish with fresh coriander leaves and serve hot with rice or naan.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>2. Grilled Prawns</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g prawns, peeled and deveined</li>
+                    <li>2 tbsp olive oil</li>
+                    <li>1 tbsp lemon juice</li>
+                    <li>1 tsp garlic powder</li>
+                    <li>1 tsp paprika</li>
+                    <li>1 tsp dried oregano</li>
+                    <li>Salt and pepper to taste</li>
+                    <li>Wooden skewers (optional)</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>In a bowl, mix olive oil, lemon juice, garlic powder, paprika, oregano, salt, and pepper.</li>
+                    <li>Marinate the prawns with the mixture for at least 15 minutes.</li>
+                    <li>Preheat the grill or oven to medium-high heat.</li>
+                    <li>Thread prawns onto skewers (if using) and grill for 3-4 minutes on each side, or until pink and opaque.</li>
+                    <li>Serve the grilled prawns with a side of fresh salad or over rice.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>3. Prawn Fry</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g prawns, peeled and deveined</li>
+                    <li>1 onion, finely sliced</li>
+                    <li>2 green chilies, slit</li>
+                    <li>1 tbsp ginger-garlic paste</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1/2 tsp turmeric powder</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for frying</li>
+                    <li>Fresh coriander for garnish</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat oil in a pan and sauté sliced onions until golden brown.</li>
+                    <li>Add ginger-garlic paste and green chilies, cook for 1 minute.</li>
+                    <li>Stir in red chili powder, turmeric, and salt. Cook for 2 minutes.</li>
+                    <li>Add prawns and cook for 5-7 minutes, stirring occasionally, until the prawns are cooked and slightly crispy.</li>
+                    <li>Garnish with fresh coriander leaves and serve with rice or chapati.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

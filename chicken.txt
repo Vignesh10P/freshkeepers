@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Chicken Recipes</title>
+    <style>
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            margin-top: 20px;
+        }
+        .recipe {
+            margin-bottom: 20px;
+        }
+        .ingredients {
+            margin-top: 10px;
+        }
+        .steps {
+            margin-top: 10px;
+        }
+        .ingredients ul, .steps ol {
+            margin-left: 20px;
+        }
+        .recipe h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Delicious Chicken Recipes</h1>
+
+        <div class="recipe">
+            <h2>1. Chicken Curry</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g chicken, cut into pieces</li>
+                    <li>1 large onion, finely chopped</li>
+                    <li>2 tomatoes, pureed</li>
+                    <li>2 tbsp ginger-garlic paste</li>
+                    <li>1 tsp cumin seeds</li>
+                    <li>1 tsp turmeric powder</li>
+                    <li>1 tsp garam masala</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1/2 cup yogurt</li>
+                    <li>Salt to taste</li>
+                    <li>Fresh coriander for garnish</li>
+                    <li>Oil for cooking</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat oil in a large pan and add cumin seeds. Sauté until they splutter.</li>
+                    <li>Add onions and cook until golden brown.</li>
+                    <li>Add ginger-garlic paste and cook for 2 minutes.</li>
+                    <li>Stir in pureed tomatoes, turmeric, red chili powder, and salt. Cook until the oil separates from the gravy.</li>
+                    <li>Add chicken pieces and cook until browned.</li>
+                    <li>Add yogurt and garam masala. Stir well, cover, and simmer for 20-25 minutes.</li>
+                    <li>Garnish with fresh coriander leaves and serve hot with rice or roti.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>2. Grilled Chicken</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g chicken breasts</li>
+                    <li>2 tbsp olive oil</li>
+                    <li>1 tbsp lemon juice</li>
+                    <li>1 tbsp garlic powder</li>
+                    <li>1 tsp paprika</li>
+                    <li>1 tsp thyme</li>
+                    <li>Salt and pepper to taste</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>In a bowl, mix olive oil, lemon juice, garlic powder, paprika, thyme, salt, and pepper.</li>
+                    <li>Coat the chicken breasts with the marinade and refrigerate for at least 30 minutes.</li>
+                    <li>Preheat the grill to medium-high heat.</li>
+                    <li>Grill the chicken for 6-7 minutes on each side until cooked through.</li>
+                    <li>Let the chicken rest for a few minutes before slicing. Serve with a side of vegetables or a salad.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>3. Chicken Tikka</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g chicken breast, cut into cubes</li>
+                    <li>1/2 cup yogurt</li>
+                    <li>1 tbsp lemon juice</li>
+                    <li>1 tbsp ginger-garlic paste</li>
+                    <li>1 tsp cumin powder</li>
+                    <li>1 tsp garam masala</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1 tbsp oil</li>
+                    <li>Salt to taste</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>In a bowl, mix yogurt, lemon juice, ginger-garlic paste, cumin powder, garam masala, red chili powder, and salt.</li>
+                    <li>Add the chicken cubes to the marinade and let it marinate for at least 1 hour.</li>
+                    <li>Preheat the oven to 200°C (400°F). Place the marinated chicken on a baking tray and drizzle with oil.</li>
+                    <li>Bake for 15-20 minutes, until the chicken is cooked and slightly charred on the edges.</li>
+                    <li>Serve with naan, rice, or a side salad.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

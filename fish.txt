@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Fish Recipes</title>
+    <style>
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            margin-top: 20px;
+        }
+        .recipe {
+            margin-bottom: 20px;
+        }
+        .ingredients {
+            margin-top: 10px;
+        }
+        .steps {
+            margin-top: 10px;
+        }
+        .ingredients ul, .steps ol {
+            margin-left: 20px;
+        }
+        .recipe h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Delicious Fish Recipes</h1>
+
+        <div class="recipe">
+            <h2>1. Fish Curry</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g fish fillets (any white fish like tilapia or cod)</li>
+                    <li>1 onion, finely chopped</li>
+                    <li>2 tomatoes, pureed</li>
+                    <li>1 tbsp ginger-garlic paste</li>
+                    <li>1 tsp cumin seeds</li>
+                    <li>1 tsp turmeric powder</li>
+                    <li>1 tsp coriander powder</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1/2 cup coconut milk</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for cooking</li>
+                    <li>Fresh coriander for garnish</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Heat oil in a pan and add cumin seeds. Sauté until they splutter.</li>
+                    <li>Add chopped onions and cook until golden brown.</li>
+                    <li>Add ginger-garlic paste and cook for 2 minutes.</li>
+                    <li>Stir in pureed tomatoes, turmeric, coriander powder, and red chili powder. Cook for 5 minutes.</li>
+                    <li>Add the fish fillets and cook gently for 5-7 minutes on each side until the fish is tender.</li>
+                    <li>Pour in the coconut milk, add salt, and cook for another 5 minutes.</li>
+                    <li>Garnish with fresh coriander leaves and serve hot with steamed rice.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>2. Grilled Fish</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>4 fish steaks (like salmon or swordfish)</li>
+                    <li>2 tbsp olive oil</li>
+                    <li>1 tbsp lemon juice</li>
+                    <li>1 tsp garlic powder</li>
+                    <li>1 tsp paprika</li>
+                    <li>1 tsp dried oregano</li>
+                    <li>Salt and pepper to taste</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Preheat your grill to medium-high heat.</li>
+                    <li>Brush the fish steaks with olive oil and lemon juice.</li>
+                    <li>Sprinkle garlic powder, paprika, oregano, salt, and pepper on both sides of the fish.</li>
+                    <li>Place the fish steaks on the grill and cook for 4-6 minutes on each side until cooked through.</li>
+                    <li>Serve the grilled fish with a side of roasted vegetables or a light salad.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="recipe">
+            <h2>3. Fish Fry</h2>
+            <h3>Ingredients:</h3>
+            <div class="ingredients">
+                <ul>
+                    <li>500g fish fillets (any white fish, like tilapia or catfish)</li>
+                    <li>1 tbsp turmeric powder</li>
+                    <li>1 tsp red chili powder</li>
+                    <li>1 tsp coriander powder</li>
+                    <li>1 tbsp lemon juice</li>
+                    <li>Salt to taste</li>
+                    <li>Oil for frying</li>
+                </ul>
+            </div>
+            <h3>Steps:</h3>
+            <div class="steps">
+                <ol>
+                    <li>Mix turmeric powder, red chili powder, coriander powder, lemon juice, and salt in a bowl to make a marinade.</li>
+                    <li>Coat the fish fillets with the marinade and let them sit for 15-20 minutes.</li>
+                    <li>Heat oil in a frying pan over medium heat.</li>
+                    <li>Fry the fish fillets for 4-5 minutes on each side until golden brown and crispy.</li>
+                    <li>Drain the excess oil on a paper towel and serve hot with a side of rice or chapati.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
